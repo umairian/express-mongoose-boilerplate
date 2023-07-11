@@ -1,7 +1,7 @@
 {
-  "name": "node-boiler-plate-app",
+  "name": "express-mongoose-boilerplate",
   "version": "0.0.1",
-  "description": "Boiler Plate Application of Node",
+  "description": "Boiler Plate Application of Express with Mongoose",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
